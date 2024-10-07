@@ -1,0 +1,8 @@
+[submodule "acomms_msgs"]
+	path = acomms_msgs
+	url = https://github.com/GSO-soslab/acomms_msgs
+	branch = humble-devel
+[submodule "evologics_ros"]
+	path = evologics_ros
+	url = https://github.com/GSO-soslab/evologics_ros
+	branch = humble-devel
